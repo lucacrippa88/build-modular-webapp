@@ -17,7 +17,9 @@ This framework, moreover, can be installed on a php server running on each type 
 To be updated.
 
 ### Architecture
-To be updated.
+The following is the logic architecture underlying the code.
+
+<img src="/img/architecture.png" width="300px">
 
 ### Modules
 To be updated.
