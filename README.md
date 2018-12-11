@@ -15,3 +15,19 @@ This framework, moreover, can be installed on a php server running on each type 
 ## Structure
 
 To be updated.
+
+### Architecture
+To be updated.
+
+### Modules
+To be updated.
+
+
+## Installation and configuration
+
+To be updated.
+
+
+## Customization
+
+To be updated.
