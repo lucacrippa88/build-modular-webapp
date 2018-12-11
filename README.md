@@ -14,14 +14,14 @@ This framework, moreover, can be installed on a php server running on each type 
 
 ## Structure
 
-To be updated.
+This project is based ona 3 layer architecture, with the web layer, the application layer and the database layer. The web layer is composed by a classic html/css/javascript structure, and can be created using any graphic template. The javascript included in this project dynamically creates and fills the structures, and it's based on a couple of functions described in the wiki pages. The php code in the application layer performs queries on the MySQL database and interacts with other Cloud Services like IBM Watson Assistant to allow Admins to speed up post drafting.
 
-### Architecture
+### Logical architecture
 The following is the logic architecture underlying the code.
 
-<img src="/img/architecture.png" width="300px">
+<img src="/img/architecture.png" width="800px">
 
-### Modules
+### Data model
 To be updated.
 
 
