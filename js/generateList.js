@@ -160,7 +160,7 @@ function generateList(cat, arch, set, pagenum, targetpage, targetpagination, max
         var card = "Nessun post trovato."
         $('.put-cards-here').append(card);
 
-        pageClick(targetpage);        // Redirect to selected page
+        // pageClick(targetpage);        // Redirect to selected page
 
       } // if retrieved page does not exist
 
