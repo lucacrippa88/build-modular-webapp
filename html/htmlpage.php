@@ -66,8 +66,8 @@
 
 <script>
 createHead();
-generatePage("url-of-the-page-0", "0");
-generatePage("url-of-the-page-1, "1");
+generatePage("url-of-the-page-0", 0);
+generatePage("url-of-the-page-1", 1);
 </script>
 
 </html>
