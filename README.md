@@ -25,10 +25,16 @@ The following is the logic architecture underlying the code.
 To be updated.
 
 
-## Installation and configuration
+## Deployment
+
+
+### Installation and configuration
 
 To be updated.
 
+### Useful Cloud Services
+
+To be updated.
 
 ## Customization
 
