@@ -40,10 +40,9 @@ To deploy this solution on the Cloud you can use the following services, availab
 <img src="/img/mysql.png" width="300px">
 <img src="/img/assistant.png" width="300px">
 
-You can try also to transform the Application Layer into a "Serverless Layer" using Cloud Functions:
+You can try also to transform the Application Layer into a "Serverless Layer" using Cloud Functions (in this case you should use a Cloud Object Storage to store images):
 
 <img src="/img/functions.png" width="300px">
-
 
 ## Customization
 
