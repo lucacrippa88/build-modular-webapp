@@ -34,7 +34,15 @@ To be updated.
 
 ### Useful Cloud Services
 
-To be updated.
+To deploy this solution on the Cloud you can use the following services:
+
+<img src="/img/php.png" width="300px">
+<img src="/img/mysql.png" width="300px">
+<img src="/img/assistant.png" width="300px">
+
+You can try also to transform the Application Layer into a "Serverless Layer" using Cloud Functions:
+<img src="/img/functions.png" width="300px">
+
 
 ## Customization
 
