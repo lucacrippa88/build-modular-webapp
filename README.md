@@ -22,7 +22,17 @@ The following is the logic architecture underlying the code.
 <img src="/img/architecture.png" width="800px">
 
 ### Data model
-To be updated.
+This project uses a single table on a MySQL database to store all data, and leverages some data optimizations to improve scalability. The idea about this data model is to let the user to store info without knowing the actual size and amount of data:
+
+- ID of the table row
+- datetimes: cell containing a json structure collecting all date and times of a sponsored event
+- chips: cell containing a json structure collecting all content tags
+
+In this way you can:
+
+- store unlimited data for each category, without losing control of table row length
+- manage json output data
+- move computational loads from DB server to Application server and Clients: only JavaScript functions work with data extracted from DB by PHP.
 
 
 ## Deployment
