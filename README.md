@@ -34,6 +34,11 @@ In this way you can:
 - manage json output data
 - move computational loads from DB server to Application server and Clients: only JavaScript functions work with data extracted from DB by PHP.
 
+Thus I decided to create an hybrid DB. Obviously there are other ways to do it:
+
+1. full use of SQL DB: creation and management of tens of tables
+2. full use of NoSQL DB: not so common for simple websites
+
 
 ## Deployment
 
