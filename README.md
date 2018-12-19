@@ -28,6 +28,8 @@ This project uses a single table on a MySQL database to store all data, and leve
 - datetimes: cell containing a json structure collecting all date and times of a sponsored event
 - chips: cell containing a json structure collecting all content tags
 
+And other stuff.
+
 In this way you can:
 
 - store unlimited data for each category, without losing control of table row length
