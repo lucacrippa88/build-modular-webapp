@@ -1,6 +1,6 @@
 // WEBSITE LOCATION FROM ROOT
 // Change it with the path in which the website home page is located within the root domain
-var path = "/coro";
+var path = "/pagename";
 
 
 /*
