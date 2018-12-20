@@ -1,0 +1,37 @@
+/*------------------------------------*\
+    MATERIAL SLIDESHOW
+\*------------------------------------*/
+
+.slider .indicators .indicator-item {
+  background-color: #9E9E9E;
+  border: 0px solid #ffffff;
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+.slider .indicators .indicator-item.active {
+  background-color: #ffffff!important;
+}
+.slider {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  top: -52px;
+  height: 540px!important;
+  margin-bottom: -50px!important;
+}
+.slider .indicators {
+  bottom: 60px!important;
+  z-index: 100;
+}
+
+.slides {
+  height: 500px!important;
+}
+
+.caption {
+  top: 30%!important;
+  background-color:rgba(0,0,0,0.3);
+  padding: 0 50px 20px 50px;
+  border-radius: 10px;
+}
