@@ -47,7 +47,7 @@ Thus I decided to create an hybrid DB. Obviously there are other ways to do it:
 
 ### Installation and configuration
 
-To be updated.
+Copy all files in root folder of your website. If you cannot use your root folder, edit the global variables in the js files to create the right path.
 
 ### Useful Cloud Services
 
@@ -63,7 +63,7 @@ You can try also to transform the Application Layer into a "Serverless Layer" us
 
 ## Customization
 
-To be updated.
+You can personalize by adding scripts, by creating the page graphics as you prefer, and by adding modules or AI features.
 
 
 ## Disclaimer
